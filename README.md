@@ -1,4 +1,4 @@
-# Ian Xiaohei Illustrations
+# Customize Ian Xiaohei Illustrations
 
 > 把中文文章里的判断、流程、状态和隐喻，变成一张张白底、手绘、怪诞但清爽的正文配图。
 >
@@ -113,15 +113,15 @@ Ian Xiaohei Illustrations 是一个 Codex Skill，用来指导 AI Agent 为中�
 克隆仓库：
 
 ```bash
-git clone https://github.com/helloianneo/ian-xiaohei-illustrations.git
-cd ian-xiaohei-illustrations
+git clone https://github.com/maxbrown12138-art/customize-ian-xiaohei-illustrations.git
+cd customize-ian-xiaohei-illustrations
 ```
 
 复制 skill 到 Codex skills 目录：
 
 ```bash
 mkdir -p "${CODEX_HOME:-$HOME/.codex}/skills"
-cp -R ./ian-xiaohei-illustrations "${CODEX_HOME:-$HOME/.codex}/skills/"
+cp -R ./customize-ian-xiaohei-illustrations "${CODEX_HOME:-$HOME/.codex}/skills/"
 ```
 
 安装后，在 Codex 里使用：
